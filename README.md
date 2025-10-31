@@ -1,3 +1,10 @@
-# SuperMarket
+# SuperMarket Java 🛒
 
-Realicé el desafío del curso Java: trabajar con listas y colecciones de datos, y lo termine haciendo de manera un tanto diferente.
+Este programa simula un sistema de compras con control de límite de tarjeta.
+
+## 💻 Ejemplo de ejecución
+
+
+
+https://github.com/user-attachments/assets/eaa37a19-00a0-4f69-bc18-a7b10cd4af3a
+
