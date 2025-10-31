@@ -1,6 +1,6 @@
 # SuperMarket Java 🛒
 
-Este programa simula un sistema de compras con control de límite de tarjeta.
+Este programa simula un sistema de compras con control de límite de tarjeta. (Versión diferente a la hecha por Alura)
 
 ## 💻 Ejemplo de ejecución
 
